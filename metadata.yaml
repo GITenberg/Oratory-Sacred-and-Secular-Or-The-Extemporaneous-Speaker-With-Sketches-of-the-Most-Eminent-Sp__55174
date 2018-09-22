@@ -1,0 +1,32 @@
+_repo: Oratory-Sacred-and-Secular-Or-The-Extemporaneous-Speaker-With-Sketches-of-the-Most-Eminent-Sp__55174
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Bingham, John Armor
+    birthdate: 1815
+    deathdate: 1900
+    gutenberg_agent_id: '47506'
+    url: http://www.gutenberg.org/2009/agents/47506
+creator:
+  author:
+    agent_name: Pittenger, William
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '2464'
+    url: http://www.gutenberg.org/2009/agents/2464
+description: ''
+gutenberg_issued: '2017-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Oratory'
+- GITenberg
+title: "Oratory Sacred and Secular; Or, The Extemporaneous Speaker\r\nWith Sketches\
+  \ of the Most Eminent Speakers of All Ages"
+url: http://www.gutenberg.org/ebooks/55174
